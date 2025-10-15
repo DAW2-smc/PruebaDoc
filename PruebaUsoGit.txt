@@ -1,0 +1,22 @@
+Este es un documento con 4 apartados: 
+
+(1) Qué es?
+
+
+
+(2) Etiquetas y su uso
+
+
+
+(3) Cómo se genera la documentación en un fichero html
+
+
+
+
+(4) Ventajas
+
+
+
+
+
+(5) Inconvenientes
