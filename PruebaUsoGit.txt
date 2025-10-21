@@ -1,22 +1,22 @@
-Este es un documento con 4 apartados: 
+Este es un documento con 5 apartados: 
 
-(1) Qué es?
-
-
-
-(2) Etiquetas y su uso
+(1) Qué es? (@Col1) 
 
 
 
-(3) Cómo se genera la documentación en un fichero html
+(2) Etiquetas y su uso (@Todos)
 
 
 
-
-(4) Ventajas
+(3) Cómo se genera la documentación en un fichero html(@Col2) 
 
 
 
 
+(4) Ventajas(@Col3) 
 
-(5) Inconvenientes: 
+
+
+
+
+(5) Inconvenientes: (@Col4) 
